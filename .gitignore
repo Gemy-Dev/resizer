@@ -1,0 +1,9 @@
+# PyInstaller
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# Output from script
+output/
